@@ -1,1 +1,11 @@
+Dataset used in this project:
 
+GSE183947
+
+Source:
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE183947
+
+The dataset is publicly available through GEO.
+
+Large expression files are not redistributed in this repository.
+Users should download the original data directly from GEO.
